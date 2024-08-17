@@ -1,7 +1,9 @@
 export default function Create () {
     return (
         <>
-            Create!
+            <h1>
+                Create!
+                </h1>
         </>
     )
 }
