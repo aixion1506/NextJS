@@ -20,6 +20,8 @@ export default function RootLayout({ children }) {
           <li><Link href="/create">Create</Link></li>
           <li><Link href="/update/1">Update</Link></li>
           <li><input type="button" value='delete' /></li>
+          <li><input type="button" value='delete' /></li>
+          
         </ul>
       </body>
     </html>
